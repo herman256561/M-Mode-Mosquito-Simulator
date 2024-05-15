@@ -1,4 +1,4 @@
-#M-Mode Mosquito Simulator
+# M-Mode Mosquito Simulator
 
 This is a simulator game written in C#.
 <br>
