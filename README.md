@@ -1,6 +1,6 @@
 # M-Mode Mosquito Simulator
 
-This is a simulator game written in C#.
+This is a simulator game developed with Unity and written in C#.
 <br>
 In M-Mode, player will play as a mosquito and solve the puzzles.
 <br>
